@@ -289,15 +289,3 @@ action (RecommendationBabyFood) {
 
 - base : endpoints.bxb
 - ko-KR : training,  /layouts,  /views, /vocab, capsule-info.bxb, soa.hints.bxb
-
-### 7.1 Test&Debug
-
-## 8. UI/UX
-
-
-
-## 9. 외부 어플리케이션 실행
-
-
-
-## 10. 부록
